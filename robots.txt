@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://bento138.wider-challenge.org/sitemap.xml
+Sitemap : http://mpo09.zra.com/sitemap.xml
